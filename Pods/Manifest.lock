@@ -1,0 +1,24 @@
+PODS:
+  - Masonry (1.1.0)
+  - TTGTagCollectionView (1.9.0)
+  - "UITableView+FDTemplateLayoutCell (1.6)"
+
+DEPENDENCIES:
+  - Masonry
+  - TTGTagCollectionView
+  - "UITableView+FDTemplateLayoutCell"
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Masonry
+    - TTGTagCollectionView
+    - "UITableView+FDTemplateLayoutCell"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  TTGTagCollectionView: 958f20b946dee92a8ba20dc37d10a06737641ae9
+  "UITableView+FDTemplateLayoutCell": 5c949b4a5059c404b442926c0e80f81d10a2d66f
+
+PODFILE CHECKSUM: dfee54de5cc9c1fe2f72aed16173da2811bb00ef
+
+COCOAPODS: 1.5.0
